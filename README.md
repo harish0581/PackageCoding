@@ -31,3 +31,6 @@ Additional constraints:
 1. Max weight that a package can take is ≤ 100
 2. There might be up to 15 items you need to choose from
 3. Max weight and cost of an item is ≤ 100
+
+# Result
+Should pass all the test cases
